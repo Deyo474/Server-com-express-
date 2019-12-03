@@ -1,5 +1,5 @@
 # Server-com-express-
-Aprendendo e praticando Node com express.
+Aprendendo e praticando Node e express.
 
 
 Olá.
